@@ -1,4 +1,4 @@
-# League of Legends Roll Call (Garena & Riot)
+# League of Legends Auto Call,Accept (Garena & Riot)
 
 Download The latest Version in https://github.com/anwinkushal/League-of-Legends-Roll-Call/releases/         
          
