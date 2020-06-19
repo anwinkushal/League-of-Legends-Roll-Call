@@ -1,4 +1,4 @@
-# League-of-Legends-Roll-Call
+# League-of-Legends-Roll-Call (Garena & Riot)
 
 Download The latest Version in https://github.com/anwinkushal/League-of-Legends-Roll-Call/releases/         
          
